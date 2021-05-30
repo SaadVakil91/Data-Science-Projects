@@ -11,4 +11,10 @@ Here you will find the list of projects that I have completed in my first three 
 Project is created with:
 * Python version: 3.7.3
 
+## Folder Structure:
+Each project folder has three subfolders:
+* **code:** This contains the code for each of the projects
+* **data:** This contains the source data used to do the analysis on the projects
+* **plots:** This contains any output plots that is linked to the projects
+
 *Note: I will keep updating the readme as I complete more projects.*
