@@ -35,8 +35,8 @@ My **best model (Random Forest model) provides an Rsquared of 81%** on test data
 * Base Model training (Used Linear Regression)
 * Feature Engineering and Feature Expansion
 * Model Training on new features. Models used:
- ** Linear Regression
- ** Ridge Regression
+*   Linear Regression
+ * Ridge Regression
  * Lasso Regression
  * Elastic Net Regression
  * Poisson Regression
