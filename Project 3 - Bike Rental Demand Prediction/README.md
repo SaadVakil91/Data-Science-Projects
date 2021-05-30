@@ -4,8 +4,8 @@
 Here the task is to predict the count of the total bikes rented during a given hour on the test dataset
 
 ## Output:
-My base model trained on linear regression provided an Rsquared of 24% on test data
-My **best model (Random Forest model) provides an Rsquared of 81%** on test data, which is a significant improvement from the base model.
+* My base model trained on linear regression provided an Rsquared of 24% on test data
+* My **best model (Random Forest model) provides an Rsquared of 81%** on test data, which is a significant improvement from the base model.
 
 ## Dataset:
 *Source: Data has been downloaded from kaggle: https://www.kaggle.com/c/bike-sharing-demand/data*
