@@ -1,10 +1,10 @@
 # Project 3 - Bike Rental Demand Prediction
 
 ## Summary:
-Here the task is to predict the count of the total bikes rented during a given hour on the test dataset
+Here the task is to predict the count of the total bikes rented during a given hour on the test dataset.
 
 ## Output:
-* My base model trained on linear regression provided an Rsquared of 24% on test data
+* My base model trained on linear regression provided an Rsquared of 24% on test data.
 * My **best model (Random Forest model) provides an Rsquared of 81%** on test data, which is a significant improvement from the base model.
 
 ## Dataset:
