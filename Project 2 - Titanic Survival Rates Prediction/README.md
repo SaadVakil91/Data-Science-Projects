@@ -3,6 +3,9 @@
 ## Summary:
 Here the task is to predict the survival of passengers on board the titanic ship
 
+## Output:
+My trained Random Forest model is able to predict survivalability of **85 percent** of the passengers on board the titanic.
+
 ## Dataset:
 *Source: Data has been downloaded from kaggle: https://www.kaggle.com/c/titanic/data*
 * train: Contains 891 rows of data of passengers aboard the titanic ship
@@ -27,10 +30,7 @@ Here the task is to predict the survival of passengers on board the titanic ship
 * Exploratory data analysis
 * Feature engineering
 * Model training (Used Logistics Regression and Random Forest model)
-* Cross validation to check for over/under fitting
-
-## Output:
-Random Forest model is able to predict survivalability of **85 percent** of the passengers on board the titanic.
+* Cross validation to check for model over/under fitting
 
 ## Technologies Used:
 Project is created with:
