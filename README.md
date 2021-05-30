@@ -1,0 +1,14 @@
+# Data Science Projects
+
+## Summary:
+Here you will find the list of projects that I have completed in my first three weeks of Data Science Bootcamp course. Please find below quick details of the projects:
+
+1. **Project 1 - Visual Data Analysis:** Here I have presented an animated scatter plot of the evolution of Life Expectancy and Fertility rate from 1960 to 2015.
+2. **Project 2 - Titanic Survival Rates Prediction:** Here I have trained Machine Learning models to predict survival of passengers aboard the titanic ship.
+3. **Project 2 - Bike Rental Demand Prediction:** Here I have trained Machine Learning models to predict hourly demand of Bikes in Washington DC.
+
+## Technologies Used:
+Project is created with:
+* Python version: 3.7.3
+
+*Note: I will keep updating the readme as I complete more projects.*
