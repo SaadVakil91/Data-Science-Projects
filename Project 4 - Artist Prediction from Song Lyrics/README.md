@@ -11,10 +11,10 @@ Here the task is to train a classification model to predict the artist from a gi
 * I have selected the following 5 artists: Chet Faker, Tom Odell, KSI, Cold Play, Eminem
 
 ## Models Used:
-* Logistics Regression model
-* Naive Bayes Classifier model
-* Random Forest Classifier model 
-                                                                                                 |
+* Logistics Regression
+* Naive Bayes Classifier
+* Random Forest Classifier
+                                                                                                 
 ## Code is split in the following parts:
 * Extracting song lyrics from lyrics.com
 * Cleaning the lyrics for any punctuation marks and converting them to lower case
