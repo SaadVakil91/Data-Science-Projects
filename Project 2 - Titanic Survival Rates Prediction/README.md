@@ -25,6 +25,10 @@ My trained Random Forest model is able to predict survivalability of **85 percen
 | cabin    | Cabin number                               |                                                |
 | embarked | Port of Embarkation                        | C = Cherbourg, Q = Queenstown, S = Southampton |
 
+## Models used:
+* Logistics Regression
+* Random Forest Classifier
+
 ## Code is split in the following parts:
 * Reading the data
 * Exploratory data analysis
