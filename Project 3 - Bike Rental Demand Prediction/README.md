@@ -29,6 +29,12 @@ Here the task is to predict the count of the total bikes rented during a given h
 | registered | number of registered user rentals                                                                                                                              |
 | count      | number of total rentals (casual + registered)                                                                                                                  |
 
+## Models used:
+* Liner Regression
+* Ridge, Lasso and Elastic Net Regression
+* Poisson Regression
+* Random Forest Regressor
+
 ## Code is split in the following parts:
 * Reading the data
 * Exploratory data analysis
