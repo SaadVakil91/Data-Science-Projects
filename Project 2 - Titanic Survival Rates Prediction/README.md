@@ -1,7 +1,7 @@
 # Project 2 - Titanic Survival Rates Prediction
 
 ## Summary:
-Here the task is to predict the survival of passengers on board the titanic ship
+Here the task is to use classifier models to predict the survival of passengers on board the titanic ship
 
 ## Output:
 My trained Random Forest model is able to predict survivalability of **85 percent** of the passengers on board the titanic.
