@@ -10,7 +10,7 @@ Here you will find the list of projects that I have completed in my first three 
 5. **Project 5 - Algorithmic Trading Model using Machine Learning Methods:** Here I have trained Machine Learning models to trade CFD's using FXCM's restful API
 
 ## Technologies Used:
-Project is created with:
+Project is created using the following technologies:
 * Python version: 3.7.3
 * Pandas, Numpy, Matplotlib, Plotly, Scikitlearn, Keras, Tensorflow
 
