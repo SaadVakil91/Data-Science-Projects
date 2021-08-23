@@ -8,6 +8,7 @@ Here I have developed an Intraday Model using Machine Learning methods to trade 
 
 ## Dataset:
 *15m timeframe data for the 4 tickers was downloaded using FXCM's restful API
+*Tickers: EUR/USD, USOil, SPX500, XAU/USD
 
 ## Models Used:
 * Logistics Regression
