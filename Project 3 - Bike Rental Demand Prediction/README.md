@@ -1,7 +1,7 @@
 # Project 3 - Bike Rental Demand Prediction
 
 ## Summary:
-Here the task is to predict the count of the total bikes rented during a given hour on the test dataset.
+Here the task is to train regression models to predict the count of the total bikes rented during a given hour on the test dataset.
 
 ## Output:
 * My base model trained on linear regression provided an Rsquared of 24% on test data.
@@ -28,6 +28,12 @@ Here the task is to predict the count of the total bikes rented during a given h
 | casual     | number of non-registered user rentals                                                                                                                          |
 | registered | number of registered user rentals                                                                                                                              |
 | count      | number of total rentals (casual + registered)                                                                                                                  |
+
+## Models used:
+* Liner Regression
+* Ridge, Lasso and Elastic Net Regression
+* Poisson Regression
+* Random Forest Regressor
 
 ## Code is split in the following parts:
 * Reading the data
