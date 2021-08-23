@@ -7,8 +7,8 @@ Here I have developed an Intraday Model using Machine Learning methods to trade 
 * My **best model (Random Forest model)** produced very good fit on test data and produced very little false signals. The model had a CAGR of approximately 50% on test data. I ran my model on the live markets for 3 days. The model produced 23 trades of which 15 were profitable trades and 8 were loss making trades.   
 
 ## Dataset:
-*15m timeframe data for the 4 tickers was downloaded using FXCM's restful API
-*Tickers: EUR/USD, USOil, SPX500, XAU/USD
+15m timeframe data for the 4 tickers was downloaded using FXCM's restful API
+Tickers: EUR/USD, USOil, SPX500, XAU/USD
 
 ## Models Used:
 * Logistics Regression
